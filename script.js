@@ -71,3 +71,4 @@ document.getElementById('cityInput').addEventListener('keypress', function (e) {
         getWeather();
     }
 });
+
