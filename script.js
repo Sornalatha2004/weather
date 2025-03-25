@@ -1,26 +1,26 @@
 // Simulated weather data (hardcoded for demonstration purposes)
 const weatherData = {
-    "Tenkasi": {
+    "New York": {
         temperature: 22,
         humidity: 60,
         description: "Sunny",
     },
-    "Tiruchi": {
+    "London": {
         temperature: 16,
         humidity: 75,
         description: "Cloudy",
     },
-    "Thoothukudi": {
+    "Tokyo": {
         temperature: 18,
         humidity: 80,
         description: "Rainy",
     },
-    "Coimbatore": {
+    "Paris": {
         temperature: 20,
         humidity: 65,
         description: "Clear",
     },
-    "Theni": {
+    "Sydney": {
         temperature: 25,
         humidity: 50,
         description: "Windy",
